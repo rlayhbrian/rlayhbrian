@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rlayhbrian
+- 👀 I’m interested in creating software with visual aspects
+- 🌱 I’m currently learning C#, Python and Java
+- 💞️ I’m looking to collaborate on API and game development
